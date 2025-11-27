@@ -10,12 +10,12 @@ This comprehensive course covers software architecture principles, patterns, and
 
 ### Module 1: Foundation Concepts
 
-- [x] Lesson 01: What is Software Architecture? _(In Progress - Nov 7, 2025)_
-- [ ] Lesson 02: Architectural Thinking & Trade-offs
-- [ ] Lesson 03: Quality Attributes (NFRs)
-- [ ] Lesson 04: Architecture Documentation
+- [x] Lesson 01: What is Software Architecture? _(Completed - Nov 7, 2025)_
+- [x] Lesson 02: Architectural Thinking & Trade-offs _(Paused - Nov 7, 2025 - Will resume after learning patterns)_
+- [x] Lesson 03: Quality Attributes (NFRs) _(Completed - Nov 27, 2025)_
+- [x] Lesson 04: Architecture Documentation _(In Progress - Nov 27, 2025)_
 
-### Module 2: Architectural Patterns
+### Module 2: Architectural Patterns (START HERE NEXT)
 
 - [ ] Lesson 05: Layered Architecture
 - [ ] Lesson 06: Microservices Architecture
@@ -72,23 +72,24 @@ This comprehensive course covers software architecture principles, patterns, and
 - [ ] Lesson 36: Data Lakes & Warehouses
 - [ ] Lesson 37: Real-time Data Processing
 
-### Module 10: Practical Applications
+### Module 10: Practical Applications & Deep Dives
 
 - [ ] Lesson 38: Architecture Decision Records (ADRs)
 - [ ] Lesson 39: Technical Debt Management
 - [ ] Lesson 40: Architecture Review Process
-- [ ] Lesson 41: Case Study: E-Commerce System
-- [ ] Lesson 42: Case Study: Social Media Platform
+- [ ] Lesson 41: **RESUME: Architectural Thinking & Trade-offs (Deep Dive)**
+- [ ] Lesson 42: Case Study: E-Commerce System
+- [ ] Lesson 43: Case Study: Social Media Platform
 
 ---
 
 ## 📊 Progress Summary
 
-- **Total Lessons**: 42
-- **Completed**: 0
-- **In Progress**: 0
-- **Remaining**: 42
-- **Completion Rate**: 0%
+- **Total Lessons**: 43
+- **Completed**: 2
+- **In Progress**: 1
+- **Remaining**: 40
+- **Completion Rate**: 4.7%
 
 ---
 
