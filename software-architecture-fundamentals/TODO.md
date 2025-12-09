@@ -15,12 +15,13 @@ This comprehensive course covers software architecture principles, patterns, and
 - [x] Lesson 03: Quality Attributes (NFRs) _(Completed - Nov 27, 2025)_
 - [x] Lesson 04: Architecture Documentation _(In Progress - Nov 27, 2025)_
 
-### Module 2: Architectural Patterns (START HERE NEXT)
+### Module 2: Architectural Patterns
 
-- [ ] Lesson 05: Layered Architecture
-- [ ] Lesson 06: Microservices Architecture
+- [x] Lesson 05: Layered Architecture _(Completed - Dec 8, 2025)_
+- [x] Lesson 06: Component-Based Architecture _(Completed - Dec 9, 2025)_
+- [x] Lesson 07: Microservices Architecture _(Completed - Dec 9, 2025)_
 - [ ] Lesson 07: Event-Driven Architecture
-- [ ] Lesson 08: Hexagonal/Clean Architecture
+- [ ] Lesson 08: Hexagonal/Clean Architecture _(In Progress - Dec 9, 2025)_
 - [ ] Lesson 09: CQRS & Event Sourcing
 
 ### Module 3: System Design Principles

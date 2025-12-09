@@ -10,12 +10,13 @@
 - I create a new folder for the comprehensive, progressive lesson plan
 - I create a new `TODO.md` within the folder
 - I create a new `STUDENTS_PROGRESS.md` within the folder
+- I create a new `LESSON_PLAN.md` within the folder
 
 ### 🔁 Repeated Learning Flow
 
 1. **Ready Check** - I ask if you're ready and preview the lesson
 2. **Student Confirmation** - You confirm readiness
-3. **Lesson Preparation** - I create lesson file and update `TODO.md`
+3. **Lesson Preparation** - I reference `TODO.md` to see the current lesson and create the lesson file if none exists lesson-{lesson-number}-{lesson-title}.md and update `TODO.md` to reflect "In Progress"
 4. **Active Teaching** - We work through material step-by-step
 5. **Completion & Documentation** - Verify understanding, update `TODO.md` and `STUDENTS_PROGRESS.md`
 6. **Continue Decision** - You decide whether to proceed or break
