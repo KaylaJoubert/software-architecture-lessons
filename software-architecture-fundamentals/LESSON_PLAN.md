@@ -38,67 +38,67 @@ This comprehensive course covers software architecture principles, patterns, and
 - Lesson 05: Layered Architecture _(Completed - Dec 8, 2025)_
 - Lesson 06: Component-Based Architecture
 - Lesson 07: Microservices Architecture
-- Lesson 07: Event-Driven Architecture
 - Lesson 08: Hexagonal/Clean Architecture
-- Lesson 09: CQRS & Event Sourcing
+- Lesson 09: Event-Driven Architecture
+- Lesson 10: CQRS & Event Sourcing
 
 ### Module 3: System Design Principles
 
-- Lesson 10: SOLID Principles in Architecture
-- Lesson 11: Coupling and Cohesion
-- Lesson 12: Separation of Concerns
-- Lesson 13: DRY, KISS, YAGNI
+- Lesson 11: SOLID Principles in Architecture
+- Lesson 12: Coupling and Cohesion
+- Lesson 13: Separation of Concerns
+- Lesson 14: DRY, KISS, YAGNI
 
 ### Module 4: Scalability & Performance
 
-- Lesson 14: Horizontal vs Vertical Scaling
-- Lesson 15: Load Balancing Strategies
-- Lesson 16: Caching Patterns
-- Lesson 17: Database Scaling
+- Lesson 15: Horizontal vs Vertical Scaling
+- Lesson 16: Load Balancing Strategies
+- Lesson 17: Caching Patterns
+- Lesson 18: Database Scaling
 
 ### Module 5: Resilience & Reliability
 
-- Lesson 18: Fault Tolerance Patterns
-- Lesson 19: Circuit Breakers & Retries
-- Lesson 20: Disaster Recovery
-- Lesson 21: Monitoring & Observability
+- Lesson 19: Fault Tolerance Patterns
+- Lesson 20: Circuit Breakers & Retries
+- Lesson 21: Disaster Recovery
+- Lesson 22: Monitoring & Observability
 
 ### Module 6: Security Architecture
 
-- Lesson 22: Security by Design
-- Lesson 23: Authentication & Authorization
-- Lesson 24: Data Protection & Privacy
-- Lesson 25: API Security
+- Lesson 23: Security by Design
+- Lesson 24: Authentication & Authorization
+- Lesson 25: Data Protection & Privacy
+- Lesson 26: API Security
 
 ### Module 7: Integration & APIs
 
-- Lesson 26: API Design Principles
-- Lesson 27: REST vs GraphQL vs gRPC
-- Lesson 28: Message Queues & Brokers
-- Lesson 29: Service Mesh
+- Lesson 27: API Design Principles
+- Lesson 28: REST vs GraphQL vs gRPC
+- Lesson 29: Message Queues & Brokers
+- Lesson 30: Service Mesh
 
 ### Module 8: Cloud Architecture
 
-- Lesson 30: Cloud-Native Principles
-- Lesson 31: Serverless Architecture
-- Lesson 32: Containers & Orchestration
-- Lesson 33: Multi-Cloud Strategies
+- Lesson 31: Cloud-Native Principles
+- Lesson 32: Serverless Architecture
+- Lesson 33: Containers & Orchestration
+- Lesson 34: Multi-Cloud Strategies
 
 ### Module 9: Data Architecture
 
-- Lesson 34: Database Selection Criteria
-- Lesson 35: SQL vs NoSQL
-- Lesson 36: Data Lakes & Warehouses
-- Lesson 37: Real-time Data Processing
+- Lesson 35: Database Selection Criteria
+- Lesson 36: SQL vs NoSQL
+- Lesson 37: Data Lakes & Warehouses
+- Lesson 38: Real-time Data Processing
 
 ### Module 10: Practical Applications & Deep Dives
 
-- Lesson 38: Architecture Decision Records (ADRs)
-- Lesson 39: Technical Debt Management
-- Lesson 40: Architecture Review Process
-- Lesson 41: RESUME: Architectural Thinking & Trade-offs (Deep Dive)
-- Lesson 42: Case Study: E-Commerce System
-- Lesson 43: Case Study: Social Media Platform
+- Lesson 39: Architecture Decision Records (ADRs)
+- Lesson 40: Technical Debt Management
+- Lesson 41: Architecture Review Process
+- Lesson 42: RESUME: Architectural Thinking & Trade-offs (Deep Dive)
+- Lesson 43: Case Study: E-Commerce System
+- Lesson 44: Case Study: Social Media Platform
 
 ---
 

@@ -3,8 +3,8 @@
 ## 👤 Student Information
 
 - **Start Date**: November 7, 2025
-- **Current Lesson**: Not started
-- **Learning Style**: To be determined
+- **Current Lesson**: Lesson 08 - Hexagonal/Clean Architecture
+- **Learning Style**: Applied, contextual learning with real-world examples
 
 ---
 
@@ -69,6 +69,28 @@ Identified VS Code's biggest architectural trade-off:
 - Understood Microsoft accepted this because "memory is cheap, developer time is expensive"
 - Context awareness: This works for modern dev machines, not for low-resource environments
 
+### Hexagonal Architecture - Deep Understanding
+
+**Date**: January 14, 2026
+
+**Topic**: Lesson 08 - Hexagonal/Clean Architecture (Ports and Adapters)
+
+Excellent grasp of hexagonal architecture principles applied to real work:
+
+- **Core Domain Identification**: Correctly identified premium calculation, validation logic, and domain models as core logic in insurance app
+- **External Dependencies**: Recognized databases, APIs, frontend components, and calculators should be behind ports
+- **Testing Strategy**: Understood using in-memory objects/arrays as test doubles for databases
+- **Migration Insight**: Made the key connection that hexagonal architecture enables smoother framework/DB migrations by isolating changes to adapters only
+- **Adapter Role**: "Every time you change the db type you need to write the adapters for it, everything else stays the same but the way we crud to the db changes" - **Perfect understanding!**
+
+**Key Breakthroughs**:
+
+- Recognized hexagonal architecture as "insurance" against future change - willing to pay upfront cost for migration flexibility
+- Understood incremental migration strategy: extract logic, create ports, build adapters for old system, then new system, run in parallel
+- Applied pattern to own insurance application context with premium calculations, policy validation, and external credit checks
+
+**Status**: ✅ Completed with strong conceptual understanding and practical application
+
 ---
 
 ## 🎯 Strengths & Areas for Growth
@@ -83,9 +105,10 @@ Identified VS Code's biggest architectural trade-off:
 
 ### Areas for Growth
 
-- **Technical depth**: Will develop deeper understanding of specific patterns and technologies as we progress
+- **Technical depth**: Developing deeper understanding of specific patterns and technologies through hands-on application
 - **Documentation practices**: Will learn formal architecture documentation (ADRs, diagrams)
 - **Large-scale systems**: Will explore more complex distributed system challenges
+- **Implementation practice**: Next step is building a small hexagonal architecture example to solidify concepts
 
 ---
 
@@ -97,8 +120,8 @@ _Instructor observations about learning patterns and engagement_
 
 ## 🎓 Milestones Achieved
 
-- [ ] Module 1: Foundation Concepts (1/4 lessons complete)
-- [ ] Module 2: Architectural Patterns
+- [ ] Module 1: Foundation Concepts (2/4 lessons complete - Lessons 01, 08)
+- [ ] Module 2: Architectural Patterns (1/8 lessons complete - Lesson 08)
 - [ ] Module 3: System Design Principles
 - [ ] Module 4: Scalability & Performance
 - [ ] Module 5: Resilience & Reliability
@@ -110,4 +133,4 @@ _Instructor observations about learning patterns and engagement_
 
 ---
 
-**Last Updated**: November 7, 2025
+**Last Updated**: January 14, 2026
